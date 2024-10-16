@@ -1,2 +1,2 @@
 # slack-clone
-this website is aclone of slack website using css.
+this website is a clone of slack website using css.
